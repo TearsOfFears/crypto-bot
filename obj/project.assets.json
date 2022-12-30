@@ -911,11 +911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PriCepThyk\\Desktop\\tBots\\tBots\\tBots.csproj",
+      "projectUniqueName": "C:\\Users\\PriCepThyk\\Desktop\\Prog\\tBots\\tBots\\tBots.csproj",
       "projectName": "tBots",
-      "projectPath": "C:\\Users\\PriCepThyk\\Desktop\\tBots\\tBots\\tBots.csproj",
+      "projectPath": "C:\\Users\\PriCepThyk\\Desktop\\Prog\\tBots\\tBots\\tBots.csproj",
       "packagesPath": "C:\\Users\\PriCepThyk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PriCepThyk\\Desktop\\tBots\\tBots\\obj\\",
+      "outputPath": "C:\\Users\\PriCepThyk\\Desktop\\Prog\\tBots\\tBots\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
